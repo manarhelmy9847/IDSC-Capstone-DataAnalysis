@@ -1,44 +1,53 @@
-# 📊 IDSC Capstone – Data Analysis Project
+# 📊 IDSC-Capstone-DataAnalysis
 
-## 📌 Project Overview
+## 📌 Overview
 
-This project was completed as part of the **IDSC Data Analysis Internship** program. The goal was to transform raw business data into actionable insights using **Power BI**, culminating in a professional-grade dashboard and executive report.
+This project was developed during the **IDSC Summer Internship for University Students and Graduates (2024)**.  
+It aims to transform raw internship data into a clear, actionable story using **Power BI**.  
+The dashboard provides stakeholders with a visual summary of intern demographics, department distributions, and educational trends.
 
-The analysis focused on understanding key performance trends, customer behaviors, and strategic indicators to support informed decision-making.
+---
+## 📸 Dashboard Snapshots
+
+### 🔹 1. Distribution by Faculty, Gender & Year
+Visual breakdown of interns by academic faculty, gender, and student level.
+
+![Intern Distribution](./Screenshots/Screenshot%202025-07-15%20022954.png)
+
+---
+
+### 🔹 2. Internship Program Overview (2023–2024)
+Top-level KPIs and visual trends: total interns, universities, majors, student vs. graduate status.
+
+![Internship Overview](./Screenshots/Screenshot%202025-07-15%20023029.png)
 
 ---
 
 ## 🎯 Objective
 
-To demonstrate end-to-end data analysis skills, from data cleaning and transformation to KPI development, dashboard storytelling, and business insight delivery.
+- Analyze and visualize internship program data for 2023–2024.
+- Help IDSC leadership make data-driven decisions for future training programs.
+- Present findings through a professional-grade interactive dashboard.
 
 ---
 
-## 🧠 Analytical Workflow
+## 🧠 Analytical Approach
 
-- 🔍 **Data Cleaning & Modeling** – using Excel for structured formatting  
-- 📊 **Dashboard Design** – with interactive Power BI visuals  
-- 📐 **DAX Calculations** – for KPIs, dynamic metrics, and segmentation  
-- 📈 **Insight Extraction** – from trends, relationships, and outliers  
-
----
-
-## 🔍 Key Insights
-
-- Identified top-performing segments and product/service gaps  
-- Highlighted behavioral patterns across demographics or time periods  
-- Pinpointed opportunities for growth and improvement using visuals  
-- Supported stakeholder decisions with data-backed stories  
+- 📥 Data Cleaning: Organizing raw Excel files into structured formats.
+- 📐 DAX Modeling: Creating KPIs and segmentation metrics.
+- 📊 Visualization: Using Power BI to build interactive and insightful charts.
+- 🧭 Navigation: Allowing stakeholders to filter by year, department, gender, and education level.
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-- **Power BI** – dashboard creation and visual storytelling  
-- **Excel** – data preprocessing  
-- **DAX** – KPI modeling and calculated metrics  
+- **Power BI** – For data modeling, KPI dashboards, and visuals.
+- **Excel** – For preprocessing and formatting data.
+- **DAX** – For custom calculations (e.g., % distributions, totals).
 
 ---
+
 
 
 
